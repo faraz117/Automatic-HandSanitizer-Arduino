@@ -1,0 +1,2 @@
+First attach the electronics
+then upload the code.
