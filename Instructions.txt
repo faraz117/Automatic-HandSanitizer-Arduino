@@ -1,2 +1,7 @@
 First attach the electronics
 then upload the code.
+
+I will add some features here that are not stable yet
+
+And i know usually master is the development branch. But just to give you guys the idea of branches.
+
